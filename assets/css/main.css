@@ -1,46 +1,101 @@
+
+.contenedor-uno{
+  display: block;
+
+}
+.contenedor-dos{
+  display: block;
+  height: 300px;
+}
+.contenedor-tres{
+  display: block;
+  height: 300px;
+}
+h1{
+  font-family: Arial;
+  text-align: center;
+}
 /* creando primera parte */
 .div-uno{
   width: 200px;
   height: 200px;
   background: yellow;
+  border: 1px solid black;
+
 }
 .div-dos{
   width: 200px;
   height: 200px;
   background: blue;
+  border: 1px solid black;
 }
 .div-tres{
   width: 200px;
   height: 200px;
   background: red;
+  border: 1px solid black;
 }
 .div-cuatro{
   width: 200px;
   height: 200px;
   background: white;
+  border: 1px solid black;
 }
 /* creando segunda parte */
 .div-cinco{
   width: 200px;
   height: 200px;
   background: yellow;
+  border: 1px solid black;
   float: left;
 }
 .div-seis{
   width: 200px;
   height: 200px;
   background: blue;
+  border: 1px solid black;
   float: left;
 }
 .div-siete{
   width: 200px;
   height: 200px;
   background: red;
+  border: 1px solid black;
   float: left;
 }
 .div-ocho{
   width: 200px;
   height: 200px;
   background: white;
+  border: 1px solid black;
   float: left;
+}
+/* creando tercera parte */
+.div-nueve{
+  width: 200px;
+  height: 200px;
+  background: yellow;
+  border: 1px solid black;
+  float: right;
+}
+.div-diez{
+  width: 200px;
+  height: 200px;
+  background: blue;
+  border: 1px solid black;
+  float: right;
+}
+.div-once{
+  width: 200px;
+  height: 200px;
+  background: red;
+  border: 1px solid black;
+  float: right;
+}
+.div-doce{
+  width: 200px;
+  height: 200px;
+  background: white;
+  border: 1px solid black;
+  float: right;
 }
