@@ -1,5 +1,4 @@
-
-
+/* creando primera parte */
 .div-uno{
   width: 200px;
   height: 200px;
@@ -14,4 +13,34 @@
   width: 200px;
   height: 200px;
   background: red;
+}
+.div-cuatro{
+  width: 200px;
+  height: 200px;
+  background: white;
+}
+/* creando segunda parte */
+.div-cinco{
+  width: 200px;
+  height: 200px;
+  background: yellow;
+  float: left;
+}
+.div-seis{
+  width: 200px;
+  height: 200px;
+  background: blue;
+  float: left;
+}
+.div-siete{
+  width: 200px;
+  height: 200px;
+  background: red;
+  float: left;
+}
+.div-ocho{
+  width: 200px;
+  height: 200px;
+  background: white;
+  float: left;
 }
